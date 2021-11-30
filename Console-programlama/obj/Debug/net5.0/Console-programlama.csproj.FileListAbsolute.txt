@@ -1,0 +1,16 @@
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\bin\Debug\net5.0\Console-programlama.exe
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\bin\Debug\net5.0\Console-programlama.deps.json
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\bin\Debug\net5.0\Console-programlama.runtimeconfig.json
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\bin\Debug\net5.0\Console-programlama.runtimeconfig.dev.json
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\bin\Debug\net5.0\Console-programlama.dll
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\bin\Debug\net5.0\ref\Console-programlama.dll
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\bin\Debug\net5.0\Console-programlama.pdb
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\Console-programlama.csproj.AssemblyReference.cache
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\Console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\Console-programlama.AssemblyInfoInputs.cache
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\Console-programlama.AssemblyInfo.cs
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\Console-programlama.csproj.CoreCompileInputs.cache
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\Console-programlama.dll
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\ref\Console-programlama.dll
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\Console-programlama.pdb
+C:\Users\merve.bozkurt\Documents\Visual Studio Code\Pratikler\Console-programlama\obj\Debug\net5.0\Console-programlama.genruntimeconfig.cache
